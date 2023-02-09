@@ -1,6 +1,10 @@
 <h1 align="center"> Hi, I'm Daniel 👋</h1>
 
 <p align="center">I'm a <strong>physics PhD researcher</strong> and <strong>data/hardware enthusiast</strong>, with experience in <strong>designing/building experimental lab equipment</strong> and <strong>publishing research</strong>. </p>
+
+I'm also on:
+
+<a href="https://www.linkedin.com/in/daniel-bromley/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **danbrom123/danbrom123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
