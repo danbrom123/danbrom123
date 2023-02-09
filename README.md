@@ -21,7 +21,7 @@ To Develop: <br />
 
 To Design: <br />
 
-<img src="https://img.shields.io/badge/AutoCAD-%23D90007.svg?style=for-the-badge&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/AutoCAD-%23D90007.svg?style=for-the-badge&logoColor=white"> <img align="center" height="50" width="65" src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1">
  
  
 <!--
