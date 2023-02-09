@@ -8,7 +8,8 @@ I'm also on:
 
 ### 👨‍💻 Languages
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" />
+
 
 ### 🛠 Favourite Tools 
 
