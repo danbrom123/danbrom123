@@ -2,15 +2,13 @@
 
 <p align="center">I'm a <strong>physics PhD researcher</strong> and <strong>data/hardware enthusiast</strong>, with experience in <strong>designing/building experimental lab equipment</strong> and <strong>publishing research</strong>. </p>
 
-I'm also on:
+### Let's connect
 
 <a href="https://www.linkedin.com/in/daniel-bromley/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 👨‍💻 Languages
 
-<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img align="center" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img align="center" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" /> <img align="center" height="50" width="65" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" /> 
-
-
+<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img align="center" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img align="center" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" /> <img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 
 ### 🛠 Favourite Tools 
