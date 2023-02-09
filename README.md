@@ -8,7 +8,8 @@ I'm also on:
 
 ### 👨‍💻 Languages
 
-<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">   <img align="center" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" /> <img align="center" height="40" width="75" src="https://seeklogo.com/images/L/Latex-logo-5EAE2E278A-seeklogo.com.png" /> <img align="center" height="50" width="65" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" /> 
+<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img align="center" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img align="center" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" /> <img align="center" height="50" width="65" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" /> 
+
 
 
 
