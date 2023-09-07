@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Daniel 👋</h1>
 
-<p align="center">I'm a <strong>physics PhD researcher</strong> and <strong>data/hardware enthusiast</strong>, with experience in <strong>designing/building experimental lab equipment</strong> and <strong>publishing research</strong>. </p>
+<p align="center">I'm a <strong>postdoctoral researcher</strong> and <strong>data/hardware enthusiast</strong>, with experience in <strong>designing/building experimental lab equipment</strong> and <strong>publishing research</strong>. </p>
 
 ### Let's connect
 
